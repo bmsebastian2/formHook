@@ -1,10 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import FormHook from "./components/FormHook";
+
 
 function App() {
   return (
     <div >
-      
+      <FormHook /> 
+
     </div>
   );
 }
